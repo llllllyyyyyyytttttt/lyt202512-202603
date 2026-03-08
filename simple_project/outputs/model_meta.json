@@ -1,0 +1,8 @@
+{
+  "feature_count": "219",
+  "gas_converged": "True",
+  "gas_message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+  "bs_converged": "False",
+  "bs_message": "STOP: TOTAL NO. OF F,G EVALUATIONS EXCEEDS LIMIT",
+  "state_cols": "gov_macro_01,gov_macro_02,gov_macro_03,gov_macro_04"
+}
